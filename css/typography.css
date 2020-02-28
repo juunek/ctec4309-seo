@@ -5,7 +5,10 @@ html {
 }
 
 h1 {
-
+  padding-bottom: .5rem;
+  padding-top: .1rem;
+  font-size: 1.9rem;
+  font-weight: 600;
 }
 
 h2 {
