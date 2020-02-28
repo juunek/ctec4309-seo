@@ -1,0 +1,26 @@
+html {
+  font-family: "Lato", "Arial", sans-serif;
+  color: #32373c;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 {
+
+}
+
+h2 {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+h6 {
+  font-weight: 200;
+  font-size: .7rem;
+}
+
+p {
+  font-weight: 100;
+  font-size: .9rem;
+  line-height: 1.4rem;
+  padding-bottom: .7rem;
+}
