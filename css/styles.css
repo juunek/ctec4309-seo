@@ -67,6 +67,14 @@ nav ul{
 	list-style-type: none;
 }
 
+p a {
+  color: #3bbfa7;
+}
+
+p a:hover {
+  color: #f78d43;
+}
+
 nav a {
   text-decoration: none;
   color: #3bbfa7;

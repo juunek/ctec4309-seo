@@ -42,6 +42,14 @@ p {
   padding-bottom: .7rem;
 }
 
+p a {
+  color: #3bbfa7;
+}
+
+p a:hover {
+  color: #f78d43;
+}
+
 hr {
   border: 1px solid #e2e4e7;
   margin-bottom: .4rem;
