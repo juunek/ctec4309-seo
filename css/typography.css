@@ -30,9 +30,6 @@ ul {
 }
 
 ol {
-  columns: 2;
-  -webkit-columns: 2;
-  -moz-columns: 2;
   padding-left: 2rem;
   line-height: 1.7rem;
 }
@@ -43,10 +40,6 @@ p {
   line-height: 1.5rem;
   padding-top: .3rem;
   padding-bottom: .7rem;
-}
-
-strong {
-  font-weight: 500;
 }
 
 hr {
