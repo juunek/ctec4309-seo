@@ -21,10 +21,22 @@ h6 {
   font-size: .7rem;
 }
 
+ul #columns {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  padding-left: 2rem;
+}
+
 p {
   font-weight: 100;
   font-size: 1rem;
   line-height: 1.5rem;
   padding-top: .3rem;
   padding-bottom: .7rem;
+}
+
+hr {
+  border: 1px solid #e2e4e7;
+  margin-bottom: .4rem;
 }
