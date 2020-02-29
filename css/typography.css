@@ -45,6 +45,10 @@ p {
   padding-bottom: .7rem;
 }
 
+strong {
+  font-weight: 500;
+}
+
 hr {
   border: 1px solid #e2e4e7;
   margin-bottom: .4rem;
